@@ -1,0 +1,22 @@
+.bg {
+  background-color: rgb(7 89 133);
+}
+
+.text {
+  color: white;
+}
+
+.padding {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.border {
+  border-radius: 0.5rem;
+}
+
+.width {
+  width: fit-content;
+}

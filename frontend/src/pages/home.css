@@ -1,0 +1,61 @@
+.main-div{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+
+  .flex-ot{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ .btn{
+    padding: 1rem 0.5rem;
+    font-size: 1rem;
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+}
+
+
+
+.flex-in{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-up{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    font-size: 1rem;
+}
+
+.flex-co{
+   display: flex;
+   flex-direction: column;  
+   justify-content: space-between;
+    border: 2px solid black;
+    padding: 2rem 4rem;
+    width: 50rem;
+    border-radius: 5px;
+}
+
+.flex-content{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.flex-content p{
+    /* text-align: center; */
+    font-size: 1.2rem;
+}
+
+.flex-cont p{
+    padding-left: 30px;
+}
+
